@@ -20,7 +20,6 @@ document.addEventListener("DOMContentLoaded", async () => {
         modal.style.display = "none";
     });
 
-    // Fechar modal ao clicar fora da imagem
     modal.addEventListener("click", (event) => {
         if (event.target === modal) {
             modal.style.display = "none";
