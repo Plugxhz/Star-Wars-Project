@@ -26,15 +26,13 @@ Este é um projeto que consome a API SWAPI para exibir personagens, planetas e r
 1. **Clone o repositório**  
    ```bash
    git clone https://github.com/Plugxhz/star-wars-project.git
-Acesse a pasta do projeto
 
 2. **Acesse a pasta do projeto**
+   ```bash
+   cd star-wars-project
 
-3. **Abra o arquivo index.html no navegador**  
-
-cd star-wars-project
-Abra o arquivo index.html no navegador
-Não é necessário instalar nada, basta abrir o arquivo HTML que o projeto rodará normalmente.
+3. **Abra o arquivo ```index.html``` no navegador**
+   Não é necessário instalar nada, basta abrir o arquivo HTML que o projeto rodará normalmente.
 
 📜 Funcionalidades
 ✅ Listar os 10 primeiros personagens com nome, altura e peso
