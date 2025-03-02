@@ -1,49 +1,56 @@
-# Star Wars Project 🚀
-
+Star Wars Project 🚀
 Este é um projeto que consome a API SWAPI para exibir personagens, planetas e recomendações de filmes de Star Wars.
 
-## 🛠 Tecnologias utilizadas
+🛠 Tecnologias utilizadas
+HTML
+CSS
+JavaScript
+API SWAPI (swapi.dev)
+📂 Estrutura do Projeto
+pgsql
+Copiar
+Editar
+📁 star-wars-project  
+├── 📁 css  
+│   ├── index.css  
+├── 📁 js  
+│   ├── script.js  
+├── 📁 imagens  
+├── index.html  
+├── README.md  
+▶️ Como rodar o projeto?
+Clone o repositório:
 
-- HTML  
-- CSS  
-- JavaScript  
-- API SWAPI (https://swapi.dev/)
+bash
+Copiar
+Editar
+git clone https://github.com/Plugxhz/star-wars-project.git
+Acesse a pasta do projeto:
 
-## 📂 Estrutura do Projeto
+bash
+Copiar
+Editar
+cd star-wars-project
+Abra o arquivo index.html no navegador:
+Não é necessário instalar dependências, basta abrir o arquivo HTML para rodar o projeto.
 
-📁 star-wars-project
-├── 📁 css
-│ ├── index.css
-├── 📁 js
-│ ├── script.js
-├── 📁 imagens
-├── index.html
-├── README.md
+💡 Opcional: Caso queira evitar possíveis problemas de CORS ao consumir a API, você pode rodar um servidor local, como:
 
+bash
+Copiar
+Editar
+# Se tiver o Python instalado:
+python -m http.server 8000
+Então, acesse http://localhost:8000 no navegador.
 
-## ▶️ Como rodar o projeto?
-
-1. **Clone o repositório**  
-   ```bash
-   git clone https://github.com/Plugxhz/star-wars-project.git
-
-2. **Acesse a pasta do projeto**
-   ```bash
-   cd star-wars-project
-
-3. **Abra o arquivo ```index.html``` no navegador**
-   Não é necessário instalar nada, basta abrir o arquivo HTML que o projeto rodará normalmente.
-
-```markdown
-## 📜 Funcionalidades
-- ✅ Listar os 10 primeiros personagens com nome, altura e peso
-- ✅ Exibir detalhes completos de um personagem selecionado
-- ✅ Filtrar personagens por gênero
-- ✅ Mostrar os filmes nos quais cada personagem apareceu
-- ✅ Listar planetas ordenados pelo número de residentes
-- ✅ Recomendar a melhor ordem para assistir aos filmes
-
-## 📌 Autor
+📜 Funcionalidades
+✅ Listar os 10 primeiros personagens com nome, altura e peso
+✅ Exibir detalhes completos de um personagem selecionado
+✅ Filtrar personagens por gênero (masculino/feminino/não especificado)
+✅ Mostrar os filmes nos quais cada personagem apareceu
+✅ Listar planetas ordenados pelo número de residentes
+✅ Recomendar a melhor ordem para assistir aos filmes (ordem cronológica, de lançamento ou machete order)
+📌 Autor
 👤 Enzo B. Sakatauskas
-📧 enzosakatauskas@gmail.com
-🔗 (https://github.com/Plugxhz)
+📧 Email: enzosakatauskas@gmail.com
+🔗 GitHub
