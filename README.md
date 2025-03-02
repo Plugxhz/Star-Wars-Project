@@ -55,6 +55,6 @@ Este é um projeto que consome a API **SWAPI** para exibir personagens, planetas
 
 ## 📌 Autor  
 
-👤 **Enzo B. Sakatauskas**  
+👤 **Enzo Bedendo Sakatauskas**  
 📧 Email: enzosakatauskas@gmail.com  
 🔗 [GitHub](https://github.com/Plugxhz)  
