@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto Star Wars</title>
+    <link rel="stylesheet" href="./css/index.css">
+</head>
+<body>
+    <div class="category-header">
+        <h1>Personagens Star Wars</h1>
+        <div class="filters">
+            <button onclick="filterCharacters('all')">Todos</button>
+            <button onclick="filterCharacters('male')">Masculino</button>
+            <button onclick="filterCharacters('female')">Feminino</button>
+            <button onclick="filterCharacters('n/a')">Desconhecido</button>
+        </div>
+        <div class="container" id="character-container"></div>
+        
+        <h1>Planetas da SWAPI</h1>
+        <div class="container" id="planet-container"></div>
+
+        <h1>Recomendação de Filmes</h1>
+        <div class="filters">
+            <button onclick="filterMovies('release')">Ordem de Lançamento</button>
+            <button onclick="filterMovies('chronological')">Ordem Cronológica</button>
+            <button onclick="filterMovies('character')">Por Personagem</button>
+        </div>
+        <div class="container" id="movie-container"></div>
+    </div>
+
+    <!-- Modal para exibir imagem ampliada -->
+    <div id="imageModal" class="modal">
+        <span class="close">&times;</span>
+        <img id="modalImage" src="" alt="Imagem Ampliada">
+    </div>
+    <script src="./js/index.js"></script>
+</body>
+</html>
