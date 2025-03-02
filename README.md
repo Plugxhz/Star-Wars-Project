@@ -34,6 +34,7 @@ Este é um projeto que consome a API SWAPI para exibir personagens, planetas e r
 3. **Abra o arquivo ```index.html``` no navegador**
    Não é necessário instalar nada, basta abrir o arquivo HTML que o projeto rodará normalmente.
 
+```markdown
 ## 📜 Funcionalidades
 - ✅ Listar os 10 primeiros personagens com nome, altura e peso
 - ✅ Exibir detalhes completos de um personagem selecionado
@@ -42,7 +43,7 @@ Este é um projeto que consome a API SWAPI para exibir personagens, planetas e r
 - ✅ Listar planetas ordenados pelo número de residentes
 - ✅ Recomendar a melhor ordem para assistir aos filmes
 
-📌 Autor
+## 📌 Autor
 👤 Enzo B. Sakatauskas
 📧 enzosakatauskas@gmail.com
 🔗 (https://github.com/Plugxhz)
