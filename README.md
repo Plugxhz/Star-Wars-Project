@@ -34,13 +34,13 @@ Este é um projeto que consome a API SWAPI para exibir personagens, planetas e r
 3. **Abra o arquivo ```index.html``` no navegador**
    Não é necessário instalar nada, basta abrir o arquivo HTML que o projeto rodará normalmente.
 
-📜 Funcionalidades
-✅ Listar os 10 primeiros personagens com nome, altura e peso
-✅ Exibir detalhes completos de um personagem selecionado
-✅ Filtrar personagens por gênero
-✅ Mostrar os filmes nos quais cada personagem apareceu
-✅ Listar planetas ordenados pelo número de residentes
-✅ Recomendar a melhor ordem para assistir aos filmes
+## 📜 Funcionalidades
+- ✅ Listar os 10 primeiros personagens com nome, altura e peso
+- ✅ Exibir detalhes completos de um personagem selecionado
+- ✅ Filtrar personagens por gênero
+- ✅ Mostrar os filmes nos quais cada personagem apareceu
+- ✅ Listar planetas ordenados pelo número de residentes
+- ✅ Recomendar a melhor ordem para assistir aos filmes
 
 📌 Autor
 👤 Enzo B. Sakatauskas
