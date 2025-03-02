@@ -28,6 +28,9 @@ Este é um projeto que consome a API SWAPI para exibir personagens, planetas e r
    git clone https://github.com/Plugxhz/star-wars-project.git
 Acesse a pasta do projeto
 
+2. **Acesse a pasta do projeto**
+
+3. **Abra o arquivo index.html no navegador**  
 
 cd star-wars-project
 Abra o arquivo index.html no navegador
